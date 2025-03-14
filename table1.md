@@ -1,0 +1,1408 @@
+<table>
+<tbody>
+<tr>
+<td>Project</td>
+<td>Tier</td>
+<td># of days</td>
+<td>Daily rep target</td>
+<td>Total target</td>
+<td>Ranges</td>
+<td>Target (New REP)</td>
+<td>Adjusted Target</td>
+<td>Payout per metric</td>
+<td>Comments</td>
+</tr>
+<tr>
+<td>ABCL</td>
+<td>A</td>
+<td>20</td>
+<td>0.4</td>
+<td>8</td>
+<td>8+</td>
+<td>4</td>
+<td></td>
+<td>4000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>ABCL</td>
+<td>B</td>
+<td>20</td>
+<td>0.3</td>
+<td>6</td>
+<td>6-7</td>
+<td>3</td>
+<td></td>
+<td>3000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>ABCL</td>
+<td>C</td>
+<td>20</td>
+<td>0.2</td>
+<td>4</td>
+<td>4-5</td>
+<td>2</td>
+<td></td>
+<td>2000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>ABCL</td>
+<td>Opportunity Kicker</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per opportunity as per AE</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Precanto</td>
+<td>Per approved appointment</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per Approved Appointment</td>
+</tr>
+<tr>
+<td>Precanto</td>
+<td>Per showup</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per Showup</td>
+</tr>
+<tr>
+<td>Precanto</td>
+<td>Per opportunity</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per Opp</td>
+</tr>
+<tr>
+<td>Precanto</td>
+<td>Per closed deal</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per Closed</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>FP&amp;A Strategy</td>
+<td>Per showup</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per Showup</td>
+</tr>
+<tr>
+<td>FP&amp;A Strategy</td>
+<td>Per opportunity</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per Opp</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>AVIBRA</td>
+<td>A</td>
+<td>20</td>
+<td>0.35</td>
+<td>7</td>
+<td>7+</td>
+<td>4</td>
+<td></td>
+<td>4000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>AVIBRA</td>
+<td>B</td>
+<td>20</td>
+<td>0.25</td>
+<td>5</td>
+<td>5-6</td>
+<td>3</td>
+<td></td>
+<td>3000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>AVIBRA</td>
+<td>C</td>
+<td>20</td>
+<td>0.15</td>
+<td>3</td>
+<td>3-5</td>
+<td>2</td>
+<td></td>
+<td>2000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Skellam</td>
+<td>Per Scheduled</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Skellam</td>
+<td>Per Showup</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Skellam</td>
+<td>Per Opportunity</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Skellam</td>
+<td>Per Closed</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Qubriux</td>
+<td>Per approved appointment</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Qubriux</td>
+<td>Per showup</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>NINJIO</td>
+<td>A</td>
+<td>20</td>
+<td>0.3</td>
+<td>6</td>
+<td>6+</td>
+<td>4</td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>NINJIO</td>
+<td>B</td>
+<td>20</td>
+<td>0.2</td>
+<td>4</td>
+<td>4-5</td>
+<td>3</td>
+<td></td>
+<td>4000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>NINJIO</td>
+<td>C</td>
+<td>20</td>
+<td>0.10</td>
+<td>2</td>
+<td>2-3</td>
+<td>2</td>
+<td></td>
+<td>3000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>NINJIO</td>
+<td>Appointment Kicker</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1000 PKR</td>
+<td>Per approved appointment scheduled</td>
+</tr>
+<tr>
+<td>NINJIO</td>
+<td>Deal Closed</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>$100</td>
+<td>Deal Closed</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv ENT</td>
+<td>A</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>8+</td>
+<td>4+</td>
+<td></td>
+<td>5000</td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv ENT</td>
+<td>B</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>5-7</td>
+<td>3</td>
+<td></td>
+<td>4000</td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv ENT</td>
+<td>C</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>1-4</td>
+<td>1</td>
+<td></td>
+<td>3000</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv SMB</td>
+<td>A</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>8+</td>
+<td>4+</td>
+<td></td>
+<td>2250</td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv SMB</td>
+<td>B</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>5-7</td>
+<td>3</td>
+<td></td>
+<td>1750</td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv SMB</td>
+<td>C</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>1-4</td>
+<td>1</td>
+<td></td>
+<td>1250</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv MM</td>
+<td>A</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>8+</td>
+<td>4+</td>
+<td></td>
+<td>2500</td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv MM</td>
+<td>B</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>5-7</td>
+<td>3</td>
+<td></td>
+<td>2000</td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv MM</td>
+<td>C</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>1-4</td>
+<td>1</td>
+<td></td>
+<td>1500</td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv</td>
+<td>No app kicker</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Payactiv others?</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Workhy</td>
+<td>Formation</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1500 PKR</td>
+<td>Per registration</td>
+</tr>
+<tr>
+<td>Workhy</td>
+<td>Address</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2000 PKR</td>
+<td>Per registration</td>
+</tr>
+<tr>
+<td>Workhy</td>
+<td>Tax</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per registration</td>
+</tr>
+<tr>
+<td>Workhy</td>
+<td>Upgrade</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2500</td>
+<td>Per Upsell</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Pureversity</td>
+<td>A</td>
+<td>20</td>
+<td>0.5</td>
+<td>10</td>
+<td>10+</td>
+<td>5</td>
+<td></td>
+<td>4000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Pureversity</td>
+<td>B</td>
+<td>20</td>
+<td>0.35</td>
+<td>7</td>
+<td>7-9</td>
+<td>4</td>
+<td></td>
+<td>3000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Pureversity</td>
+<td>C</td>
+<td>20</td>
+<td>0.25</td>
+<td>5</td>
+<td>5-6</td>
+<td>3</td>
+<td></td>
+<td>2000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Payoneer</td>
+<td>Per showup</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>750 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Payoneer</td>
+<td>Per closed deal</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>750 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Payoneer Check-out</td>
+<td>Per showup</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Payoneer Check-out</td>
+<td>Per opportunity</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PureVPN-Dome</td>
+<td>A</td>
+<td>20</td>
+<td>0.5</td>
+<td>10</td>
+<td>10+</td>
+<td>5</td>
+<td></td>
+<td>4000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>PureVPN-Dome</td>
+<td>B</td>
+<td>20</td>
+<td>0.35</td>
+<td>7</td>
+<td>7-9</td>
+<td>4</td>
+<td></td>
+<td>3000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>PureVPN-Dome</td>
+<td>C</td>
+<td>20</td>
+<td>0.25</td>
+<td>5</td>
+<td>5-6</td>
+<td>3</td>
+<td></td>
+<td>2000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PureVPN-Dome PK</td>
+<td>Per showup</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>PureVPN-Dome PK</td>
+<td>Per opportunity</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>illumin CA</td>
+<td>A</td>
+<td>20</td>
+<td>0.5</td>
+<td>10</td>
+<td>8+</td>
+<td>5</td>
+<td></td>
+<td>4000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin CA</td>
+<td>B</td>
+<td>20</td>
+<td>0.35</td>
+<td>7</td>
+<td>5-7</td>
+<td>4</td>
+<td></td>
+<td>3000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin CA</td>
+<td>C</td>
+<td>20</td>
+<td>0.25</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td></td>
+<td>2000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin US</td>
+<td>A</td>
+<td>20</td>
+<td>0.5</td>
+<td>10</td>
+<td>8+</td>
+<td>5</td>
+<td></td>
+<td>6500 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin US</td>
+<td>B</td>
+<td>20</td>
+<td>0.3</td>
+<td>6</td>
+<td>5-7</td>
+<td>3</td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin US</td>
+<td>C</td>
+<td>20</td>
+<td>0.15</td>
+<td>3</td>
+<td>2-4</td>
+<td>2</td>
+<td></td>
+<td>3500 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin ENT</td>
+<td>Opp created</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>CAD $10</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin ENT</td>
+<td>Opp reach stage 4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>CAD $50</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin ENT</td>
+<td>Opp closed</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>CAD $250</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin MQL</td>
+<td>Opp created</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>CAD $5</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin MQL</td>
+<td>Opp reach stage 4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>CAD $25</td>
+<td></td>
+</tr>
+<tr>
+<td>illumin MQL</td>
+<td>Opp closed</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>CAD $125</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Internal Web Research</td>
+<td>A</td>
+<td>20</td>
+<td>100</td>
+<td>2000</td>
+<td>1500+</td>
+<td>1000</td>
+<td></td>
+<td>8 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Internal Web Research</td>
+<td>B</td>
+<td>20</td>
+<td>70</td>
+<td>1400</td>
+<td>1050-1499</td>
+<td>800</td>
+<td></td>
+<td>7 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Internal Web Research</td>
+<td>C</td>
+<td>20</td>
+<td>60</td>
+<td>1200</td>
+<td>1000-1399</td>
+<td>600</td>
+<td></td>
+<td>6 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Internal Web Research</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>500 PKR</td>
+<td>Per lead converted</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Canopy</td>
+<td>A</td>
+<td>20</td>
+<td>0.35</td>
+<td>7</td>
+<td>7+</td>
+<td>4</td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Canopy</td>
+<td>B</td>
+<td>20</td>
+<td>0.25</td>
+<td>5</td>
+<td>5-6</td>
+<td>3</td>
+<td></td>
+<td>4000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Canopy</td>
+<td>C</td>
+<td>20</td>
+<td>0.15</td>
+<td>3</td>
+<td>3-4</td>
+<td>2</td>
+<td></td>
+<td>3000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Feedr</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Genimex</td>
+<td>Per approved appointment</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per Approved Appointment</td>
+</tr>
+<tr>
+<td>Genimex</td>
+<td>Per showup</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per Showup</td>
+</tr>
+<tr>
+<td>Genimex</td>
+<td>Per opportunity</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per Opp</td>
+</tr>
+<tr>
+<td>Genimex</td>
+<td>Per closed deal</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td>Per Closed</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dagsmejan</td>
+<td>750 Tasks</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>10000 PKR</td>
+<td>Completing 750 Tasks</td>
+</tr>
+<tr>
+<td>Dagsmejan</td>
+<td>Additional 100 Tasks</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1000 PKR</td>
+<td>1000 on additional 100 tasks</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Chowmill SDR</td>
+<td>Showups</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2500 PKR</td>
+<td>Per Showups</td>
+</tr>
+<tr>
+<td>Chowmill SDR</td>
+<td>Appointments</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2500 PKR</td>
+<td>Per Appts</td>
+</tr>
+<tr>
+<td>Chowmill SDR</td>
+<td>0.25x Meals Value</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0.25</td>
+<td>$0.25 for each meal ordered</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Chowmill Support</td>
+<td>Menues Created</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>700 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Chowmill Support</td>
+<td>Closed/Won</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>500 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Chowmill Support</td>
+<td>Rating Ticket</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>200 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Chowmill Restaurant</td>
+<td>A</td>
+<td>20</td>
+<td>1.0</td>
+<td>20</td>
+<td>20+</td>
+<td>10</td>
+<td></td>
+<td>2500 PKR</td>
+<td>Per Contract Signed</td>
+</tr>
+<tr>
+<td>Chowmill Restaurant</td>
+<td>B</td>
+<td>20</td>
+<td>0.8</td>
+<td>15</td>
+<td>15-19</td>
+<td>8</td>
+<td></td>
+<td>2000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Chowmill Restaurant</td>
+<td>C</td>
+<td>20</td>
+<td>0.5</td>
+<td>10</td>
+<td>10-14</td>
+<td>5</td>
+<td></td>
+<td>1500 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Mperative</td>
+<td>Per Scheduled</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Mperative</td>
+<td>Per Showup</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Mperative</td>
+<td>Per Opportunity</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td>Mperative</td>
+<td>Per Closed</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5000 PKR</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
